@@ -1,0 +1,7 @@
+print("hello world");
+
+function dosome(name){
+    print("hi",name);
+};
+
+dosome("King");

@@ -1,0 +1,4 @@
+print("Hello world");
+
+var abc = "Have a nice day.";
+print(abc);
